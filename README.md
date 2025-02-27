@@ -58,10 +58,10 @@ I'm a cybersecurity engineer passionate about drone technology and data-driven i
 ## Drones & Data in Action
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHG5KGFxSkUWwPW/giphy.gif" alt="Drone in Action" width="600" />
+  <img src="https://media.giphy.com/media/l0HlMOBH2La3XvL7i/giphy.gif" alt="Drone Data in Action" width="600" />
 </p>
 
-I leverage drone technologies and data analytics to create real‑time surveillance and intelligence systems. From designing IP drones to processing large datasets, my work is driven by innovation and precision.
+I merge cutting‑edge drone technology with powerful data analytics to deliver real‑time surveillance and actionable insights. *(Replace this GIF with one that best represents your work, if needed.)*
 
 ---
 
@@ -71,7 +71,7 @@ I leverage drone technologies and data analytics to create real‑time surveilla
   <a href="https://github.com/VectorRecon">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add additional social links as needed -->
+  <!-- Add additional social links as desired -->
 </p>
 
 <h3 align="center">"Innovate. Fly High. Data Always."</h3>
