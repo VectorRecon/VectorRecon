@@ -1,16 +1,94 @@
-## Hi there 👋
+<!-- Custom Animated CSS for Glitch Effect -->
+<style>
+@keyframes glitch {
+  0% { text-shadow: 3px 3px 0 #00ff00, -3px -3px 0 #ff0000; }
+  25% { text-shadow: -3px -3px 0 #00ff00, 3px 3px 0 #ff0000; }
+  50% { text-shadow: 3px -3px 0 #ff0000, -3px 3px 0 #00ff00; }
+  75% { text-shadow: -3px 3px 0 #ff0000, 3px -3px 0 #00ff00; }
+  100% { text-shadow: 3px 3px 0 #00ff00, -3px -3px 0 #ff0000; }
+}
+.glitch-text {
+  animation: glitch 1.5s infinite;
+}
+</style>
 
-<!--
-**VectorRecon/VectorRecon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header with Glitch Animation -->
+<h1 align="center">
+  <span class="glitch-text">⚡ VectorRecon ⚡</span>
+</h1>
 
-Here are some ideas to get you started:
+<!-- Typing Animation Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Advanced+Recon+%7C+Offensive+Security;Automated+Threat+Intelligence;Real-Time+OSINT+%7C+Exploit+Development;Adversary+Simulation+%7C+Automation+Frameworks" alt="Typing Animation">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Dynamic Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VectorRecon&label=🔥+Hacker+Sightings&color=00ff00&style=flat" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Recon-%23ffb400.svg?style=for-the-badge&logo=databricks&logoColor=black" alt="Recon">
+  <img src="https://img.shields.io/badge/OSINT-%2300ff00.svg?style=for-the-badge&logo=wikidata&logoColor=black" alt="OSINT">
+  <img src="https://img.shields.io/badge/Exploitation-%23ff0000.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=black" alt="Exploitation">
+  <img src="https://img.shields.io/badge/Automation-%23009688.svg?style=for-the-badge&logo=python&logoColor=white" alt="Automation">
+</p>
+
+---
+
+## 🚀 Who is VectorRecon?
+
+I am a **Cybersecurity Engineer & Automation Architect** specializing in:
+
+- **Offensive Security & Exploit Development:** Crafting custom exploits and conducting in-depth vulnerability research.
+- **Automated Recon & OSINT:** Building AI-enhanced frameworks for real-time threat intelligence and digital reconnaissance.
+- **Red Team Operations & Adversary Simulation:** Emulating real-world threat actors to assess and fortify security postures.
+
+My work combines advanced coding techniques with relentless automation, keeping systems secure and one step ahead of cyber adversaries.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,bash,c,linux,git,html,css,js" alt="Tech Stack Icons">
+</p>
+
+**Programming & Scripting:**  
+• Python • Go • C • Bash
+
+**Cybersecurity & Exploitation:**  
+• Reverse Engineering • Privilege Escalation • Zero-Day Analysis
+
+**Recon & OSINT:**  
+• Passive & Active Network Reconnaissance • DNS & Domain Enumeration  
+• Tools: Nmap, Wireshark, Metasploit, BurpSuite, Impacket, Shodan
+
+**Automation & Threat Intelligence:**  
+• Automated Exploit Deployment  
+• AI-Driven Recon Frameworks
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=VectorRecon&theme=radical&hide_border=true" alt="Streak Stats">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=VectorRecon&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VectorRecon&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</p>
+
+---
+
+## 🛡️ Connect with Me
+
+<p align="center">
+  <a href="https://github.com/VectorRecon">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <!-- Additional social links or future contact info can be added here -->
+</p>
+
+---
+
+<h3 align="center">⚡ "Automate. Exploit. Adapt." ⚡</h3>
